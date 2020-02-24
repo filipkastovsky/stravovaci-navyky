@@ -2,6 +2,7 @@
     "name": "stravovaci-navyky",
     "version": "0.1.0",
     "private": true,
+    "homepage": "http://filipkastovsky.github.io/stravovaci-navyky",
     "dependencies": {
         "react": "^16.11.0",
         "react-dom": "^16.11.0",
