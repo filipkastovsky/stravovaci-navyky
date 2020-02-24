@@ -41,15 +41,15 @@ const theme = createTheme(
 );
 
 const images = {
-    bg: require('./bg.jpg'),
-    burger: require('./burger.jpg'),
-    vegan: require('./vegan.jpg'),
-    shop: require('./shop.jpg'),
-    tomato: require('./tomato.jpg'),
-    diet: require('./diet.jpg'),
-    meat: require('./meat.jpg'),
-    bread: require('./bread.jpg'),
-    salad: require('./salad.jpg'),
+    bg: require('./assets/bg.jpg'),
+    burger: require('./assets/burger.jpg'),
+    vegan: require('./assets/vegan.jpg'),
+    shop: require('./assets/shop.jpg'),
+    tomato: require('./assets/tomato.jpg'),
+    diet: require('./assets/diet.jpg'),
+    meat: require('./assets/meat.jpg'),
+    bread: require('./assets/bread.jpg'),
+    salad: require('./assets/salad.jpg'),
 };
 
 preloader(images);
