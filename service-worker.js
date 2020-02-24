@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/stravovaci-navyky/precache-manifest.87bbf9c4031153d469189c85d51d67d2.js"
+  "/stravovaci-navyky/precache-manifest.2aac405dcd6fb7154216a8aa5253d7e7.js"
 );
 
 workbox.clientsClaim();

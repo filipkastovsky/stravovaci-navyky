@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "a629efdeb121dac16326",
-    "url": "/stravovaci-navyky/static/js/main.a629efde.chunk.js"
+    "revision": "0618e8cdaf195d349e3c",
+    "url": "/stravovaci-navyky/static/js/main.0618e8cd.chunk.js"
   },
   {
     "revision": "dd959c275b1f11c69016",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/stravovaci-navyky/static/media/salad.03f011c9.jpg"
   },
   {
-    "revision": "1b8c91c9ede9e1afe48951502191ccc3",
+    "revision": "dbf095b63a2762a5f639fdada6f93425",
     "url": "/stravovaci-navyky/index.html"
   }
 ];
